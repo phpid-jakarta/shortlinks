@@ -10,9 +10,6 @@
     "netlify-shortener": "^1.0.3"
   },
   "homepage": "https://phpindonesia.id/",
-  "bin": {
-    "shorten": "cli.js"
-  },
   "scripts": {
     "shorten": "netlify-shortener"
   }
