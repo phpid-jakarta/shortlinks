@@ -1,0 +1,9 @@
+{
+  "homepage": "https://phpindonesia.id/",
+  "bin": {
+    "shorten": "cli.js"
+  },
+  "scripts": {
+    "shorten": "netlify-shortener"
+  }
+}
