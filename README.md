@@ -2,6 +2,12 @@
 
 🪝  Pemendek tautan statis untuk phpid
 
+## Base URL
+
+https://phpid.netlify.app/learning
+
+## Available Short links
+
 | Short link   | Original link  |
 |-------------|----------------|
 | [/learning](https://phpid.netlify.app/learning)  |  https://phpid-jakarta.github.io/phpid-learning/ | 
