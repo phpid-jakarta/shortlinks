@@ -4,7 +4,7 @@
 
 ## Base URL
 
-https://phpid.netlify.app/learning
+https://phpid.netlify.app/
 
 ## Available Short links
 
