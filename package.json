@@ -1,5 +1,4 @@
 {
-  "baseUrl": "https://s.phpindonesia.id/",
   "name": "shortlinks",
   "version": "1.0.0",
   "main": "index.js",
