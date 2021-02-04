@@ -1,4 +1,14 @@
 {
+  "baseUrl": "https://s.phpindonesia.id/",
+  "name": "shortlinks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:phpid-jakarta/shortlinks.git",
+  "author": "<phpid-dev-team>",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  },
   "homepage": "https://phpindonesia.id/",
   "bin": {
     "shorten": "cli.js"
