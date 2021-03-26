@@ -1,6 +1,6 @@
 # shortlinks
 
-🪝  Pemendek tautan statis untuk phpid
+🪝  Pemendek tautan statis untuk komunitas PHPID
 
 ## Base URL
 
