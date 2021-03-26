@@ -10,38 +10,38 @@
 
 # PHPID OL Videos/Slides
 
-# -- Videos
+# -- Videos - START
 /rekaman-1       https://youtu.be/fSQ8JamoAfg
 /rekaman-2       https://www.facebook.com/peterjkambey/videos/10219281729691797
 /rekaman-3       https://youtu.be/emfHRGd5LuE
-/rekaman-4       https://placeholder.com
-/rekaman-5       https://placeholder.com    
-/rekaman-6       https://placeholder.com
-/rekaman-7       https://placeholder.com 
-/rekaman-8       https://placeholder.com
-/rekaman-9       https://placeholder.com    
-/rekaman-10      https://placeholder.com
-/rekaman-11      https://placeholder.com
-/rekaman-12      https://placeholder.com
-/rekaman-13      https://placeholder.com
-/rekaman-14      https://placeholder.com
-/rekaman-15      https://placeholder.com    
-/rekaman-16      https://placeholder.com
-/rekaman-17      https://placeholder.com 
-/rekaman-18      https://placeholder.com
-/rekaman-19      https://placeholder.com    
-/rekaman-20      https://placeholder.com
-/rekaman-21      https://placeholder.com
-/rekaman-22      https://placeholder.com
-/rekaman-23      https://placeholder.com
+/rekaman-4       https://www.facebook.com/peterjkambey/videos/10219322209183759
+/rekaman-5       https://www.facebook.com/peterjkambey/videos/10219333692590837    
+/rekaman-6       https://www.facebook.com/peterjkambey/videos/10219344732706833
+/rekaman-7       https://www.facebook.com/peterjkambey/videos/10219376923231576 
+/rekaman-8       https://www.facebook.com/peterjkambey/videos/10219410023379059
+/rekaman-9       https://www.facebook.com/peterjkambey/videos/10219428640684480    
+/rekaman-10      https://www.facebook.com/peterjkambey/videos/10219439233869303
+/rekaman-11      https://www.facebook.com/peterjkambey/videos/10219460519601433
+/rekaman-12      https://www.facebook.com/peterjkambey/videos/10219471755322319
+/rekaman-13      https://www.facebook.com/peterjkambey/videos/10219491497055850
+/rekaman-14      https://www.facebook.com/peterjkambey/videos/10219510663695004
+/rekaman-15      https://www.facebook.com/peterjkambey/videos/10219521400483417    
+/rekaman-16      https://www.facebook.com/peterjkambey/videos/10219532379837894
+/rekaman-17      https://www.facebook.com/peterjkambey/videos/10219542443169471 
+/rekaman-18      https://www.facebook.com/peterjkambey/videos/10219553693850731
+/rekaman-19      https://www.facebook.com/peterjkambey/videos/10219564541841924    
+/rekaman-20      https://www.facebook.com/peterjkambey/videos/10219575493195701
+/rekaman-21      https://www.facebook.com/peterjkambey/videos/10219586488470576
+/rekaman-22      https://www.facebook.com/peterjkambey/videos/10219608505780995
+/rekaman-23      https://www.facebook.com/peterjkambey/videos/10219664721066342
 /rekaman-24      https://placeholder.com
-/rekaman-25      https://placeholder.com    
-/rekaman-26      https://placeholder.com
-/rekaman-27      https://placeholder.com 
-/rekaman-28      https://placeholder.com
-/rekaman-29      https://placeholder.com    
-/rekaman-30      https://placeholder.com
-/rekaman-31      https://placeholder.com
+/rekaman-25      https://www.facebook.com/peterjkambey/videos/10219634513351168    
+/rekaman-26      https://www.facebook.com/peterjkambey/videos/10219644689445564
+/rekaman-27      https://www.facebook.com/peterjkambey/videos/10219674327906507 
+/rekaman-28      https://www.facebook.com/peterjkambey/videos/10219798560652248
+/rekaman-29      https://www.facebook.com/peterjkambey/videos/10219845832474014    
+/rekaman-30      https://www.facebook.com/peterjkambey/videos/10219864037649132
+/rekaman-31      https://www.facebook.com/peterjkambey/videos/10219872592703003
 /rekaman-32      https://placeholder.com
 /rekaman-33      https://placeholder.com
 /rekaman-34      https://placeholder.com
@@ -61,11 +61,12 @@
 /rekaman-48      https://placeholder.com
 /rekaman-49      https://placeholder.com    
 /rekaman-50      https://placeholder.com
+## -- Videos - END
 
-# -- Slides
+## -- Slides - START
 /slide-1         https://slideshare.net/hidayat365/how-to-design-a-good-database
 /slide-2         https://speakerdeck.com/yudiutomo/ux-introduction
-
+## -- Slides - END
 
 # Root doimain will fallback to FB group of phpid
 /*               https://www.facebook.com/groups/phpid
